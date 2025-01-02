@@ -2,12 +2,12 @@
 A GUI-based expense management application developed in C++ using the Qt framework. This tool helps users track their daily expenses efficiently, with features for adding, modifying, and deleting entries, importing existing records, and exporting data to Excel files.
 
 # Table of Contents
-Features
-Workflow
-Tools and Technologies Used
-Installation and Setup
-Usage
-License
+-Features
+-Workflow
+-Tools and Technologies Used
+-Installation and Setup
+-Usage
+-License
 
 <img src="https://user-images.githubusercontent.com/56465574/207687434-c8967184-8824-4f53-9269-d5b857fcc845.png" width="400" /> <img src="https://user-images.githubusercontent.com/56465574/207687450-23f80db4-a682-4b2f-b3de-8afd6dfc4a5e.png" width="450" />
 
