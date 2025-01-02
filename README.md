@@ -39,7 +39,7 @@ A GUI-based expense management application developed in C++ using the Qt framewo
 - Clone the Repository:
 
 - git clone https://github.com/Harsh-TG/Smart-Expense-Tracker.git
-- cd ExpenseManager
+- cd Smart-Expense-Tracker
 - Install Qt Framework: Download and install the Qt development environment from Qt's official website.
 - Build the Project: Open the project in Qt Creator, configure the build, and compile the source code.
 - Run the Application: Execute the compiled application directly from Qt Creator or the command line.
