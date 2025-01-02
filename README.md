@@ -9,7 +9,7 @@ A GUI-based expense management application developed in C++ using the Qt framewo
 - Usage
 - License
 
-<img src="https://user-images.githubusercontent.com/56465574/207687434-c8967184-8824-4f53-9269-d5b857fcc845.png" width="400" /> <img src="https://user-images.githubusercontent.com/56465574/207687450-23f80db4-a682-4b2f-b3de-8afd6dfc4a5e.png" width="450" />
+<img src="https://user-images.githubusercontent.com/56465574/207687434-c8967184-8824-4f53-9269-d5b857fcc845.png" width="400" />   <img src="https://user-images.githubusercontent.com/56465574/207687450-23f80db4-a682-4b2f-b3de-8afd6dfc4a5e.png" width="450" />
 
 # Features
 - Add Expenses: Record daily expenses with relevant details.
@@ -38,7 +38,7 @@ A GUI-based expense management application developed in C++ using the Qt framewo
 # Installation and Setup
 - Clone the Repository:
 
-- git clone https://https://github.com/Harsh-TG/Smart-Expense-Tracker.git
+- git clone https://github.com/Harsh-TG/Smart-Expense-Tracker.git
 - cd ExpenseManager
 - Install Qt Framework: Download and install the Qt development environment from Qt's official website.
 - Build the Project: Open the project in Qt Creator, configure the build, and compile the source code.
